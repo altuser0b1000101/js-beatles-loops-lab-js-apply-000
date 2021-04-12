@@ -6,7 +6,9 @@ let arr = [];
   return arr;
 }
 
-function 
+function johnLennonFacts(){
+  
+}
 
 
 
