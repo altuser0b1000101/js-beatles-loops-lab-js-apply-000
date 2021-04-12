@@ -4,3 +4,4 @@ let arr = [ ];
   const str = musicians[ i ] + ' plays ' + instruments[ i ];
   arr.push( str );
 }
+return arr;
