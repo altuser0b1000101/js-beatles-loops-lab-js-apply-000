@@ -1,28 +1,15 @@
 function theBeatlesPlay(musicians,instruments){
-let arr = [''];
+let arr = [];
 } for ( let i=0; i < musicians.length; i++ ) {
-  const str = musicians[i] + 'plays' + instruments[i];
-  
-}
-
-
-
-
-
-
-
-
-function theBeatlesPlay( musicians, instruments ) {
-let arr = [ ];
-} for ( let i=0; i < musicians.length; i++ ) {
-  const str = musicians[ i ] + ' plays ' + instruments[ i ];
-  arr.push( str );
+  const str = musicians[i] + `"John Lennon plays guitar"` + instruments[i];
+  arr.push(str);
   return arr;
 }
 
-const whoPlaysWhat = theBeatlesPlay(
-  [ 'John Lennon', 'Paul McCartney', 'George Harrison', 'Ringo Starr' ],
-  [ 'Guitar', 'Bass Guitar', 'Lead Guitar', 'Drums' ]
-);
+function 
 
-console.log( whoPlaysWhat );
+
+
+
+
+
